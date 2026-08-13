@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/react": "^3.0.9",
-    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/tailwind": "^6.0.2",
     "@headlessui/react": "^1.7.17",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "astro": "^4.1.1",
